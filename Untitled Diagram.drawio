@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T23:22:55.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ktPvU9XQHwyGEVCFKf3S" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T23:26:45.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W63NUCrcrohw8DXDTMFw" version="21.3.2" type="github">
   <diagram name="Page-1" id="-_F7nJi7kFSRMnQvHGdq">
     <mxGraphModel dx="1659" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8-NaCSMhFFN-oB8JUjF-45" target="X8-NaCSMhFFN-oB8JUjF-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X8-NaCSMhFFN-oB8JUjF-45" value="Allow-outage&lt;br&gt;=True&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X8-NaCSMhFFN-oB8JUjF-45" value="Allow-outage&lt;br&gt;=True?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="531" y="400" width="100" height="101" as="geometry" />
         </mxCell>
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8-NaCSMhFFN-oB8JUjF-47" target="X8-NaCSMhFFN-oB8JUjF-45">
@@ -154,7 +154,7 @@
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8-NaCSMhFFN-oB8JUjF-77" target="X8-NaCSMhFFN-oB8JUjF-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X8-NaCSMhFFN-oB8JUjF-77" value="Start instance refresh. &lt;br&gt;Job succed?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X8-NaCSMhFFN-oB8JUjF-77" value="Start instance refresh. Job succeeded?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="444" y="220" width="114" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X8-NaCSMhFFN-oB8JUjF-84" target="X8-NaCSMhFFN-oB8JUjF-67">
