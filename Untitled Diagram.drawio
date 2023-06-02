@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T04:02:46.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gIwFPrv_rLfknZycD0vo" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T04:04:27.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TAgOzQpyUb4um6faKnaK" version="21.3.5" type="github">
   <diagram name="Page-1" id="-_F7nJi7kFSRMnQvHGdq">
     <mxGraphModel dx="1242" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,11 @@
         </mxCell>
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-21" value="Current AMI &lt;br&gt;= Latest AMI ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="229.5" y="685" width="121" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="reAVpSjClT-QzDdpi9Kl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X8-NaCSMhFFN-oB8JUjF-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-24" value="No Action Needed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="235.75" y="845" width="108.5" height="40" as="geometry" />
@@ -177,8 +182,8 @@
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-117" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="620" y="135" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="X8-NaCSMhFFN-oB8JUjF-119" value="Damo send notification&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;to code owner team&lt;br&gt;1) Job succeed&lt;br&gt;2) Job failed&lt;br&gt;3) Job didn&#39;t execute" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="623" y="140" width="150" height="90" as="geometry" />
+        <mxCell id="X8-NaCSMhFFN-oB8JUjF-119" value="Damo send notification&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;to code owner team&lt;br&gt;1) Job not need&lt;br&gt;2) Job succeed&lt;br&gt;3) Job failed&lt;br&gt;4) Job didn&#39;t execute" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="623" y="135" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="X8-NaCSMhFFN-oB8JUjF-120" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="670" y="230" width="30" height="16.5" as="geometry" />
